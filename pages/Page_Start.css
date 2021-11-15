@@ -1,0 +1,22 @@
+.div_Page_Start {
+  padding-top: 20px;
+}
+.div_Page_Start p {
+  font-size: 25px;
+  padding-top: 40px;
+}
+.div_Page_Start h1 {
+  font-size: 35px;
+  padding: 20px;
+}
+.div_Page_Start h3 {
+  padding: 20px;
+  font-size: 35px;
+}
+.div_Page_Start .PageLink {
+  color: white;
+  font-size: 25px;
+  border: 1px solid black;
+  padding: 10px 20px;
+  background-color: gray;
+}/*# sourceMappingURL=Page_Start.css.map */
